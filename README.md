@@ -3,13 +3,13 @@
 
 - 🌱 Estou estudando **Redes de computador, desenvolvimento Back End e Sistemas da informação.**
 
-- 👨‍💻 Meu portifólio contendo meus projetos e informações [HTTPS://galarca.site](HTTPS://galarca.site)
+- 👨‍💻 Meu portifólio contendo meus projetos e informações [HTTPS://galarca.site](Meu Site)
 
 - 💬 Uma curiosidade sobre mim **Entusiasta, sempre estou pesquisando e aprendendo algo diferente para fazer.**
 
 - 📫 How to reach me **contato@galarca.site**
 
-- 📄 Conheça as minhas características [HTTPS://galarca.site/sobre](HTTPS://galarca.site/sobre)
+- 📄 Conheça as minhas características [HTTPS://galarca.site/sobre](Sobre mim )
 
 - ⚡ Fato sobre mim **Tenho umas ideias bem diferentes as vezes, muitas surpreendem por dar certo, outras por dar errado, porém tenho em mente que é tentando e errando que aprendemos e inovamos.**
 
