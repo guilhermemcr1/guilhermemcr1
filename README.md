@@ -1,15 +1,15 @@
-<h1 align="center">Olá 👋, eu sou Guilherme</h1>
+<h1 align="center">Olá 👋,eu sou Guilherme</h1>
 <h3 align="center">Sou técnico de TI, analista de redes, SySAdmin e Dev nas horas vagas.</h3>
 
 - 🌱 Estou estudando **Redes de computador, desenvolvimento Back End e Sistemas da informação.**
 
-- 👨‍💻 Meu portifólio contendo meus projetos e informações [HTTPS://galarca.site](Meu Site)
+- 👨‍💻 Meu portifólio contendo meus projetos e informações [galarca.site](galarca.site)
 
 - 💬 Uma curiosidade sobre mim **Entusiasta, sempre estou pesquisando e aprendendo algo diferente para fazer.**
 
 - 📫 How to reach me **contato@galarca.site**
 
-- 📄 Conheça as minhas características [HTTPS://galarca.site/sobre](Sobre mim )
+- 📄 Conheça as minhas características [galarca.site/sobre](galarca.site/sobre)
 
 - ⚡ Fato sobre mim **Tenho umas ideias bem diferentes as vezes, muitas surpreendem por dar certo, outras por dar errado, porém tenho em mente que é tentando e errando que aprendemos e inovamos.**
 
