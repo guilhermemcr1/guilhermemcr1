@@ -9,7 +9,7 @@
 
 - 💬 Uma curiosidade sobre mim **Entusiasta, sempre estou pesquisando e aprendendo algo diferente para fazer.**
 
-- 📫 How to reach me **contato@galarca.site**
+- 📫 Email para contato **contato@galarca.site**
 
 - 📄 Conheça as minhas características [galarca.site/sobre](galarca.site/sobre)
 
