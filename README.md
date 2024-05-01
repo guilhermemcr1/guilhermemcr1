@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋,eu sou Guilherme</h1>
+<h1 align="center">Olá 👋, eu sou Guilherme</h1>
 <h3 align="center">Sou técnico de TI, analista de redes, SySAdmin e Dev nas horas vagas.</h3>
 
 - 🌱 Estou estudando **Redes de computador, desenvolvimento Back End e Sistemas da informação.**
