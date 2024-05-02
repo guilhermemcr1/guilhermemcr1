@@ -3,17 +3,21 @@
 
 - 👨🏼‍💻 Estou trabalhando no momento [Num sistema gestor de hotspots WI-FI](galarca.site/projetos)
 
-- 🌱 Estou estudando **Redes de computador, desenvolvimento Back e Front end e sistemas operacionais.**
+- 📚 Estou estudando **Redes de Computador, Desenvolvimento Back e Front End e Sistemas Operacionais.**
 
-- 👨‍💻 Meu portifólio contendo meus projetos e informações [galarca.site](galarca.site)
+- 👨‍💻 Meu portifólio contendo meus projetos e informações [galarca.site](https://www.galarca.site)
+
+- 👨‍🎓 Sou formado em Técnico em informática para Internet, já fiz alguns cursos sobre desenvolvimento Web e estou no último semestre de TADS.
+
+- 🖥️ Trabalho atualmente como técnico de TI, com experiência na gestão de redes utilizando equipamentos Mikrotik, Cisco, Unifi e PFSense.
 
 - 💬 Uma curiosidade sobre mim **Entusiasta, sempre estou pesquisando e aprendendo algo diferente para fazer.**
 
 - 📫 Email para contato **contato@galarca.site**
 
-- 📄 Conheça as minhas características [galarca.site/sobre](galarca.site/sobre)
+- 📄 Conheça as minhas características [galarca.site/sobre](https://www.galarca.site/sobre)
 
-- ⚡ Fato sobre mim **Tenho umas ideias bem diferentes as vezes, muitas surpreendem por dar certo, outras por dar errado, porém tenho em mente que é tentando e errando que aprendemos e inovamos.**
+- ❓ Fato sobre mim **Tenho umas ideias bem diferentes as vezes, muitas surpreendem por dar certo, outras por dar errado, porém tenho em mente que é tentando e errando que aprendemos e inovamos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
