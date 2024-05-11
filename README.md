@@ -5,7 +5,7 @@
 
 - 📚 Estou estudando **Redes de Computador, Desenvolvimento Back e Front End e Sistemas Operacionais.**
 
-- 👨‍💻 Meu portifólio contendo meus projetos e informações [galarca.site](https://www.galarca.site)
+- 👨‍💻 Meu portifólio contendo meus projetos e informações [galarca.site](https://galarca.site)
 
 - 👨‍🎓 Sou formado em Técnico em informática para Internet, já fiz alguns cursos sobre desenvolvimento Web e estou no último semestre de TADS.
 
@@ -15,7 +15,7 @@
 
 - 📫 Email para contato **contato@galarca.site**
 
-- 📄 Conheça as minhas características [galarca.site/sobre](https://www.galarca.site/sobre)
+- 📄 Conheça as minhas características [galarca.site/sobre](https://galarca.site/sobre)
 
 - ❓ Fato sobre mim **Tenho umas ideias bem diferentes as vezes, muitas surpreendem por dar certo, outras por dar errado, porém tenho em mente que é tentando e errando que aprendemos e inovamos.**
 
