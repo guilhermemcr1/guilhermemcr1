@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋,eu sou Guilherme</h1>
-<h3 align="center">Sou técnico de TI, analista de redes, SySAdmin e Dev nas horas vagas.</h3>
+<h3 align="center">Sou técnico de TI, analista de redes, SySAdmin e agora Dev em tempo integral``.</h3>
 
 - 👨🏼‍💻 Estou trabalhando no momento [Em um sistema gestor de hotspots WI-FI](https://github.com/guilhermemcr1/wifi-manager)
 
@@ -9,7 +9,7 @@
 
 - 👨‍🎓 Sou formado em Técnico em informática para Internet, já fiz alguns cursos sobre desenvolvimento Web e estou no último semestre de TADS.
 
-- 🖥️ Trabalho atualmente como técnico de TI, com experiência na gestão de redes utilizando equipamentos Mikrotik, Cisco, Unifi e PFSense.
+- 🖥️ Atualmente estou trabalhando como Dev para uma empresa de finanças.
 
 - 💬 Uma curiosidade sobre mim **Entusiasta, sempre estou pesquisando e aprendendo algo diferente para fazer.**
 
