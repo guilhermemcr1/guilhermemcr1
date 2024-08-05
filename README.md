@@ -3,7 +3,7 @@
 
 - 👨🏼‍💻 Estou trabalhando no momento [Em um sistema gestor de hotspots WI-FI](https://github.com/guilhermemcr1/wifi-manager)
 
-- 📚 Estou estudando **Redes de Computador e Desenvolvimento Back/Front End..**
+- 📚 Estou estudando **Redes de Computador e Desenvolvimento Back/Front End.**
 
 - 👨‍💻 Meu portifólio contendo meus projetos e informações [galarca.site](https://galarca.site)
 
