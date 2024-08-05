@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋,eu sou Guilherme</h1>
-<h3 align="center">Sou técnico de TI, analista de redes, SySAdmin e agora Dev em tempo integral``.</h3>
+<h3 align="center">Sou técnico de TI, Analista de redes, SySAdmin e agora Dev em tempo integral``.</h3>
 
 - 👨🏼‍💻 Estou trabalhando no momento [Em um sistema gestor de hotspots WI-FI](https://github.com/guilhermemcr1/wifi-manager)
 
-- 📚 Estou estudando **Redes de Computador, Desenvolvimento Back e Front End e Sistemas Operacionais.**
+- 📚 Estou estudando **Redes de Computador e Desenvolvimento Back/Front End..**
 
 - 👨‍💻 Meu portifólio contendo meus projetos e informações [galarca.site](https://galarca.site)
 
