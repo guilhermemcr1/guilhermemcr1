@@ -1,21 +1,21 @@
 <h1 align="center">Olá 👋,eu sou Guilherme</h1>
-<h3 align="center">Sou técnico de TI, Analista de redes, SySAdmin e agora Dev em tempo integral``.</h3>
+<h3 align="center">Atualmente sou Dev em tempo integral, porém já fui Técnico de TI, analista de redes e SySAdmin.</h3>
 
 - 👨🏼‍💻 Estou trabalhando no momento [Em um sistema gestor de hotspots WI-FI](https://github.com/guilhermemcr1/wifi-manager)
 
-- 📚 Estou estudando **Redes de Computador e Desenvolvimento Back/Front End.**
+- 📚 Estou estudando **Desenvolvimento Back/Front End com NodeJS e TypeScript.**
 
-- 👨‍💻 Meu portifólio contendo meus projetos e informações [galarca.site](https://galarca.site)
+- 👨‍💻 Meu portifólio contendo meus projetos e informações [galarca.dev](https://galarca.dev)
 
-- 👨‍🎓 Sou formado em Técnico em informática para Internet, já fiz alguns cursos sobre desenvolvimento Web e estou no último semestre de TADS.
+- 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas, Técnico em Informática e possuo diversos cursos relacionados a área de Tecnologia.
 
 - 🖥️ Atualmente estou trabalhando como Dev para uma empresa de finanças.
 
 - 💬 Uma curiosidade sobre mim **Entusiasta, sempre estou pesquisando e aprendendo algo diferente para fazer.**
 
-- 📫 Email para contato **contato@galarca.site**
+- 📫 Email para contato **contato@galarca.dev**
 
-- 📄 Conheça as minhas características [galarca.site/sobre](https://galarca.site/sobre)
+- 📄 Conheça as minhas características [galarca.dev/sobre](https://galarca.dev/sobre)
 
 - ❓ Fato sobre mim **Tenho umas ideias bem diferentes as vezes, muitas surpreendem por dar certo, outras por dar errado, porém tenho em mente que é tentando e errando que aprendemos e inovamos.**
 
